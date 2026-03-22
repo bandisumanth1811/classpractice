@@ -7,6 +7,7 @@ print("Hey Sumanth, Trust God's Plan")
 #Om Namo Bhagavate Satyarthaya
 #Om Namo Bhagavate Venkateshaya
 #Om Namo Bhagavate Venkateshaya
+#Om Namo Bhagavate Venkateshaya
 print("Hey Sumanth, Trust God's Plan")
 
 print("Hey Sumanth, Trust God's Plan")
